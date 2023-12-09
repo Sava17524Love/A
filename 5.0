@@ -1,0 +1,38 @@
+a = int(input('ведить чЕсло мисеця '))
+
+if a == 1:
+    print('сичень')
+else:
+    if a == 2:
+        print('лютий')
+    else:
+        if a == 3:
+            print('березень')
+        else:
+            if a == 4:
+                print('квитень')
+            else:
+                if a == 5:
+                    print('MAY')
+                else:
+                    if a == 6:
+                        print('джун')
+                    else:
+                        if a == 7:
+                            print('JYUL')
+                        else:
+                            if a == 8:
+                                print('АВГУСТ')
+                            else:
+                                if a == 9:
+                                    print('ВЕРЕСЕНЬ')
+                                else:
+                                    if a == 10:
+                                        print('ЖОЛТЕНЬ')
+                                    else:
+                                        if a == 11:
+                                            print('ЛЫСТОПАД')
+                                        else:
+                                            if a == 12:
+                                                print('ГРУДЕНЬ')
+
