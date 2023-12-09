@@ -1,0 +1,7 @@
+a = int(input('1 чесло'))
+b = int(input('2 чесло'))
+c = int(input('3 чесло'))
+d = int(input('4 чесло'))
+e = int(input('5 чесло'))
+f = a+b+c+d+e
+print(f/5)
