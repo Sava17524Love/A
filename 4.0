@@ -1,0 +1,7 @@
+a = int(input('1 чесло'))
+b = int(input('2 чесло'))
+c = int(input('3 чесло'))
+if c == a+b:
+    print('3-те чесло НайБИльшЕ')
+else:
+    print(a+b)
